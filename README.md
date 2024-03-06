@@ -16,4 +16,4 @@ http://127.0.0.1:5000/draw_winner
 
 ![image](https://github.com/Trinity-SYT-SECURITY/-/assets/96654161/eefb844b-b82e-4a94-aec0-1c2b326112f5)
 
-注意不要再選擇抽獎人數時大於抽獎者輸入名字的人數
+注意不要在選擇抽獎人數時大於抽獎者輸入名字的人數
